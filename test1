@@ -1,2 +1,3 @@
-s is tamil
-
+FROM ubuntu
+MAINTAINER devops
+RUN apt update
